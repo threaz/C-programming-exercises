@@ -1,0 +1,4 @@
+#define MAMA 10
+printf("%s", MAMA);
+if(MAMA == 10)
+   printf("true");
